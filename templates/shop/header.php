@@ -13,7 +13,7 @@
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">  
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -150,28 +150,28 @@
                             </div>
                             <a href="/shop/contact.html" class="nav-item nav-link">Contact</a>
                         </div>
-                        </div>
-                        <div class="navbar-nav ml-auto py-0 d-none d-lg-block">
-                            <a href="" class="btn px-0">
-                                <i class="fas fa-heart text-primary"></i>
-                                <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
-                            </a>
-                            <a href="/shop/cart.php" class="btn px-0 ml-2">
-                                <i class="fas fa-shopping-cart text-primary"></i>
-                                <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
-                            </a>
-                        </div>
-                        <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user">&nbsp;</i>My Account <i class="fa fa-angle-down ml-3"></i></a>
-                                <div class="dropdown-menu bg-primary rounded-0 border-0 m-0">
-                                    <a href="/shop/signin.php" class="dropdown-item">Sign in</a>
-                                    <a href="/shop/signup.php" class="dropdown-item">Sign up</a>
-                                </div>
-                            </div>
                     </div>
-                </nav>
+                    <div class="navbar-nav ml-auto py-0 d-none d-lg-block">
+                        <a href="" class="btn px-0">
+                            <i class="fas fa-heart text-primary"></i>
+                            <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
+                        </a>
+                        <a href="/shop/cart.php" class="btn px-0 ml-2">
+                            <i class="fas fa-shopping-cart text-primary"></i>
+                            <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
+                        </a>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user">&nbsp;</i>My Account <i class="fa fa-angle-down ml-3"></i></a>
+                        <div class="dropdown-menu bg-primary rounded-0 border-0 m-0">
+                            <a href="/shop/signin.php" class="dropdown-item">Sign in</a>
+                            <a href="/shop/signup.php" class="dropdown-item">Sign up</a>
+                        </div>
+                    </div>
             </div>
+            </nav>
         </div>
+    </div>
     </div>
     <!-- Navbar End -->
     <!-- Breadcrumb Start -->
