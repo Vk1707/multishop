@@ -1,7 +1,6 @@
 <?php
 include_once("../templates/shop/header.php");
 ?>
-
     <!-- Cart Start -->
     <div class="container-fluid">
         <div class="row px-xl-5">

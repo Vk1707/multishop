@@ -148,7 +148,7 @@
                                     <a href="/shop/checkout.php" class="dropdown-item">Checkout</a>
                                 </div>
                             </div>
-                            <a href="/shop/contact.html" class="nav-item nav-link">Contact</a>
+                            <a href="/shop/contact.php" class="nav-item nav-link">Contact</a>
                         </div>
                     </div>
                     <div class="navbar-nav ml-auto py-0 d-none d-lg-block">

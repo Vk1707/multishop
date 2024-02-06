@@ -39,14 +39,15 @@
     <!-- endbuild -->
 
     <!-- Vendors JS -->
-
+    <script src="/assets/admin/vendor/libs/apex-charts/apexcharts.js"></script>
     <!-- Main JS -->
     <script src="/assets/admin/js/main.js"></script>
 
     <!-- Page JS -->
 
     <script src="/assets/admin/js/form-basic-inputs.js"></script>
-
+   <!-- Page JS -->
+   <script src="/assets/admin/js/dashboards-analytics.js"></script>
     <!-- Place this tag in your head or just before your close body tag. -->
     <script async defer src="https://buttons.github.io/buttons.js"></script>
     </body>

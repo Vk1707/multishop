@@ -167,12 +167,20 @@
                 </ul>
               </li> -->
 
-          <!-- Components -->
 
+          <!-- Dashboard -->
+            <li class="menu-item">
+              <a href="/admin/index.php" class="menu-link">
+                <i class="menu-icon tf-icons bx bx-home-circle"></i>
+                <div data-i18n="Analytics">Dashboard</div>
+              </a>
+            </li>
+
+          <!-- Components -->
           <li class="menu-header small text-uppercase"><span class="menu-header-text">Components</span></li>
           <!-- Categories -->
           <li class="menu-item">
-            <a href="cards-basic.html" class="menu-link menu-toggle">
+            <a href="" class="menu-link menu-toggle">
               <i class="menu-icon tf-icons bx bx-category"></i>
               <div>Categories</div>
             </a>
@@ -264,6 +272,27 @@
               <li class="menu-item">
                 <a href="/admin/product-images-list.php" class="menu-link">
                   <div>Product Image List</div>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <!-- Application -->
+          <li class="menu-item">
+            <a href="/admin/application-list.php" class="menu-link menu-toggle">
+              <i class="menu-icon tf-icons bx bx-table"></i>
+              <div>Application </div>
+            </a>
+            <ul class="menu-sub">
+              <li class="menu-item">
+                <a href="/admin/add-application.php" class="menu-link">
+                  <div>Add Application</div>
+                </a>
+              </li>
+            </ul>
+            <ul class="menu-sub">
+              <li class="menu-item">
+                <a href="/admin/application-list.php" class="menu-link">
+                  <div>Application List</div>
                 </a>
               </li>
             </ul>
