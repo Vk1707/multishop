@@ -234,13 +234,12 @@ $discounts= array_slice(GetDiscounts(), 0, 2);
         </div>
     </div>
     <!-- Products End -->
-    
 
     <!-- Vendor Start -->
     <div class="container-fluid py-5">
         <div class="row px-xl-5">
             <div class="col">
-                <div class="owl-carousel vendor-carousel">
+                <div class=" vendor-carousel owl-loaded owl-drag">
                     <div class="bg-light p-4">
                         <img src="/assets/shop/img/vendor-1.jpg" alt="">
                     </div>
@@ -270,6 +269,8 @@ $discounts= array_slice(GetDiscounts(), 0, 2);
         </div>
     </div>
     <!-- Vendor End -->
+    <hr>
+    <hr>
     <?php
     include_once("../templates/shop/footer.php");
     ?>
